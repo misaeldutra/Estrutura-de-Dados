@@ -4,7 +4,7 @@
 int main(){
     int matriz[3][3];
     int i, j;
-    int identidade = 1;
+    int identidade = 1; //duvida sobre essa quest. "Precisa necessariamente declarar essa variavel?"
 
     printf("Informe os elementos da matriz: \n");
     for(i = 0; i < 3; i++){
